@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bricks</string>
+    <string name="game_title">THE BRICKS</string>
+    <string name="level_cleared">LEVEL CLEARED!</string>
+    <string name="you_won">YOU WON!</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="start_button_title">Start Game</string>
+    <string name="restart_button_title">Restart Game</string>
+    <string name="continue_button_title">Continue</string>
+    <string name="score_metric">"Score: "</string>
+    <string name="attempts_metric">"Attempts: "</string>
+    <string name="level_d_cleared">LEVEL %d CLEARED!</string>
+    <string name="level_d_txt">level%d.txt</string>
+    <string name="game_paused_msg">PAUSE</string>
+    <string name="show_config_button_text">Tap the screen to display the settings button.</string>>
+    <string name="tap_to_resume_text">To continue: tap the screen → Settings → Play/Pause</string>
+    <string name="default_version_name">v.1.0 (1)</string>
+    <string name="current_version_name">v%s (%d)</string>
+</resources>
